@@ -1,6 +1,6 @@
 /*
  * hello world em java
- * @author JoséŽ Miguel Malaca
+ * @author JosÃ© Miguel Malaca
  * https://github.com/tOOnPT
  * 
  */
